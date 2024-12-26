@@ -1,0 +1,10 @@
+.grid-mobile,
+.grid-mobile * {
+  box-sizing: border-box;
+}
+.grid-mobile {
+  background: #ffffff;
+  height: 812px;
+  position: relative;
+  overflow: hidden;
+}
